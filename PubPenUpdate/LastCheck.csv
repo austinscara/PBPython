@@ -8,7 +8,7 @@ PBID,LP Name,Code,Data Website,Last Check Date
 11596-33,Pennsylvania Public School Employees Retirement System,PSERS-RE,http://www.psers.state.pa.us/investment/invest.htm,'../forms/2015/2015%201Q%20-%20RE%20Final.pdf'
 51615-10,Partners Group Private Equity Performance,Partners-P3,http://pgdatahotel.net/index.php,"'<option value=""2016"">2016</option>'"
 10772-83,Princess Private Equity,Partners-Princess,http://pgdatahotel.net/index.php,"'<option value=""2016"">2016</option>'"
-53427-61,San Luis Obispo County Pension Trust,SLOCPT,http://www.slocounty.ca.gov/PensionTrust/agendas.htm,"'href=""/Assets/PT/pdf/Board+Meetings/A-+2016+Board+of+Trustees+Meeting+Schedule/01+-+Jan+25+2016+-+Agenda+$!26+Board+Materials+-+Distrib+v1.pdf""'"
+53427-61,San Luis Obispo County Pension Trust,SLOCPT,http://www.slocounty.ca.gov/PensionTrust/agendas.htm,"'href=""/Assets/PT/pdf/Board+Meetings/A-+2016+Board+of+Trustees+Meeting+Schedule/01+-+Jan+25+2016+-+Agenda+$!26+Board+Materials+-+Distrib+v2.pdf""'"
 11607-67,Employees' Retirement System of the State of Hawaii,HIERS-PE,http://ers.ehawaii.gov/investments/holdings,"'June 30, 2015'"
 11563-12,District of Columbia Retirement Board,DCRB,http://dcrb.dc.gov/service/investment-reports,"'June 30, 2015'"
 52375-42,Scandinavian Private Equity,SPE,http://www.speas.dk/default.asp?id=166,"'<a href=""file.asp?id=726"">Delårsrapport Q3 2015/16</a>'"
@@ -16,10 +16,9 @@ PBID,LP Name,Code,Data Website,Last Check Date
 11596-69,Pennsylvania State Employees Retirement System,PENNSERS-PE,http://sers.pa.gov/investments.aspx,"'December 31, 2014</a>'"
 11600-20,Chicago Public School Teachers' Pension & Retirement Fund,CTPF-PE,http://www.ctpf.org/general_info/Investments_content.htm,'First Quarter 2015 Callan Private Equity'
 54109-18,Imperial County Employees' Retirement System,ICERS,http://www.icers.info/QuarterlyInvestments/QuarterlyInvestments.htm,'09/30/2015'
-11591-92,New Hampshire Retirement System,NHRS,https://www.nhrs.org/funding-and-investments/investments,"'href=""/docs/default-source/other/private-market-investment-overview-current.pdf?sfvrsn=12""'"
+11591-92,New Hampshire Retirement System,NHRS,https://www.nhrs.org/funding-and-investments/investments,"'href=""/docs/default-source/other/private-market-investment-overview-current.pdf?sfvrsn=14""'"
 11620-27,West Yorkshire Pension Fund,WYPF,http://www.wypf.org.uk/Member/Investments/PrivateEquityPortfolio/PrivateEquityPortfolio.aspx,'2015/PrivateEquityPortfolio2015.aspx'
 10849-06,Canada Pension Plan Investment Board,CPPIB,http://www.cppib.com/en/what-we-do/our-investments.html,"'June 30, 2015'"
-11600-11,Public School Retirement System of Missouri,PEERS,https://www.psrs-peers.org/Investments/Annual-Report.html,'<h2>2015 Comprehensive Annual Financial Report</h2>'
 11079-46,California Public Employees Retirement System,CalPERS,https://www.calpers.ca.gov/page/investments/asset-classes/private-equity/pep-fund-performance,"'June 30, 2015'"
 11620-18,Western Michigan University Foundation,WMUFoundation,http://www.mywmu.com/s/1428/gid2/index.aspx?sid=1428&gid=2&pgid=429,'3rd Quarter '
 64388-44,Nevada System of Higher Education Endowment,NSHEEndowment,http://system.nevada.edu/Nshe/index.cfm/data-reports/financial-reports/quarterly-investment-reports/,'Third Quarter 2015'
@@ -39,19 +38,20 @@ PBID,LP Name,Code,Data Website,Last Check Date
 11607-67,Employees' Retirement System of the State of Hawaii,HIERS-RE,http://ers.ehawaii.gov/investments/holdings,"'June 30, 2015'"
 58144-96,Vermont State Teachers Retirement System,V-STRS,http://www.vermonttreasurer.gov/retirement/vstrs-financial-reports,'2015 September: Third Quarter'
 11600-20,Chicago Public School Teachers' Pension & Retirement Fund,CTPF-RE,http://www.ctpf.org/general_info/Investments_content.htm,'Second Quarter 2015 Townsend Real Estate Summary'
-11576-98,Industriens Pension,IP-UL,https://www.industrienspension.dk/da/Om%20Industriens%20Pension/Investeringer#accordion=Aktiver,'/~/media/Files/Investering/2015/November/20151130%20Unoterede%20aktier%20output.pdf?la=da'
+11023-48,Mithras Capital Partners,gpMCP,http://www.mithrascapital.com/reports/,'Interim Report and Financial Statements - 30 June 2015'
 14183-02,AP Fonden 3,AP3-REIF,http://www.ap3.se/sites/english/portfolio/totalportfolio/Pages/Securitiesholding.aspx,'June 2015'
 11616-67,University of Wisconsin System,UWS,https://www.wisconsin.edu/trust-funds/investments-and-reports/,"'href=""https://www.wisconsin.edu/trust-funds/download/investments_and_reports/QtrlyReport0615.pdf""'"
 11549-89,Baltimore Fire & Police Retirement System,BCFPERS,http://bcfpers.org/services-view/investment-flash-reports/,'September 2015'
 11145-43,CapMan Capital Management,gpCapMan4q,http://www.capman.com/capman-group/funds/fund-returns,'<h2>The funds' returns as at 31 December 2014</h2>'
 11592-28,New Mexico State Investment Council,NMSIC,http://www.sic.state.nm.us/private-equity-investments.aspx,'National Private Equity Program Quarterly Performance Review Q2 2015'
+58145-23,Vermont Municipal Employees' Retirement System,V-MERS,http://www.vermonttreasurer.gov/retirement/muni-financial-reports,'2015 September: Third Quarter'
 11547-91,Public Safety Personnel Retirement System of the State of Arizona,PSPRS,http://www.psprs.com/sys_psprs/AnnualReports/cato_annual_rpts_psprs.htm,'FYE 2015 COMPREHENSIVE ANNUAL FINANCIAL REPORT (CAFR)'
 52082-47,The Iowa State University Endowment,IowaRegents,http://www.regents.iowa.gov/Meetings/DocketMemos/agendaitems.html,'16Memos/January21206/0116_CSSAgenda.pdf'
 11542-96,North East Scotland Pension Fund,ACC,http://www.nespf.org.uk/Investment/inv_managers.asp,"'September 30, 2015'"
 11603-53,San Bernardino County Employees' Retirement Association,SBCERA,https://www.sbcera.org/Investments/FiscalYearPerformance.aspx,"'href=""/Portals/0/PDFs/Investments/2015/NEPC_Quarterly_Report_9-30-15.PDF""'"
 11588-14,Michigan Department of Treasury,MERS,"http://www.michigan.gov/treasury/0,4679,7-121-1753_37621_66445---,00.html","'href=""/documents/treasury/IAC_Meeting_12-1-15_507348_7.pdf""'"
 11583-37,London Borough of Islington Pension Fund,Islington,http://www.islington.gov.uk/about/council-works/councilfinance/Pages/policies.aspx,"'href=""http://www.islington.gov.uk/publicrecords/library/Finance/Information/Guidance/2015-2016/(2015-10-26)-Islington-Pension-Fund.xlsx""'"
-11023-48,Mithras Capital Partners,gpMCP,http://www.mithrascapital.com/reports/,'Interim Report and Financial Statements - 30 June 2015'
+11576-98,Industriens Pension,IP-UL,https://www.industrienspension.dk/da/Om%20Industriens%20Pension/Investeringer#accordion=Aktiver,'/~/media/Files/Investering/2015/November/20151130%20Unoterede%20aktier%20output.pdf?la=da'
 40385-44,San Diego City Employees Retirement System,SDCERS,https://board.sdcers.org/sirepub/meetresults.aspx?wmode=transparent,'January 2016'
 11554-48,California State Teachers' Retirement System,CalSTRS,http://www.calstrs.com/private-equity-portfolio-performance,"'March 31, 2015'"
 51685-66,El Paso Firemen & Policemen's Pension Fund,ElPasoFP,http://elpasofireandpolice.org/fr_investment.asp,"'href=""images/1Q15_PR.pdf""><img'"
@@ -66,7 +66,7 @@ PBID,LP Name,Code,Data Website,Last Check Date
 60293-35,The Permanent University Fund,PUF,http://www.utimco.org/scripts/internet/fundsdetail.asp?fnd=2,"'June 30, 2015 Semi-Annual report'"
 11588-86,Milwaukee County Employees' Retirement System,MCERS,http://county.milwaukee.gov/Retirement/Reports/Investment.htm,"'href=""/ImageLibrary/Groups/cntyHR/PDFdocs/MilwaukeeJune2015.pdf""'"
 53427-70,San Joaquin County Employees' Retirement Association,SJCERA-RE,http://www.sjcera.org/Pages/content/investments/index.html,'1Q 2015'
-58145-23,Vermont Municipal Employees' Retirement System,V-MERS,http://www.vermonttreasurer.gov/retirement/muni-financial-reports,'2015 September: Third Quarter'
+11600-11,Public School Retirement System of Missouri,PEERS,https://www.psrs-peers.org/Investments/Annual-Report.html,'<h2>2015 Comprehensive Annual Financial Report</h2>'
 11598-13,City of Phoenix Employees' Retirement Plan,COPERS,https://www.phoenix.gov/copers/pension-plan-reports,"'href=""https://www.phoenix.gov/coperssite/Documents/06-30-15'"
 11615-68,University of Washington Endowment,UWEndowment,https://uwff-dev1.s.uw.edu/treasury2/CEF/reports,"'http://f2.washington.edu/treasury/sites/default/files/HB1640%20Private%20Investment%20Disclosure%20Requirement%20as%20of%20June%2030,%202015_0.pdf'"
 14183-02,AP Fonden 3,AP3-PE,http://www.ap3.se/sites/english/portfolio/totalportfolio/Pages/Securitiesholding.aspx,'June 2015'
